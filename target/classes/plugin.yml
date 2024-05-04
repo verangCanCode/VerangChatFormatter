@@ -1,0 +1,9 @@
+name: VerangChatFormatter
+version: '1.0-SNAPSHOT'
+main: com.verang.verangchatformatter.VerangChatFormatter
+api-version: '1.20'
+commands:
+  reloadconfig:
+    description: Reloads the configuration file.
+    usage: /<command>
+    aliases: [rconfig]
